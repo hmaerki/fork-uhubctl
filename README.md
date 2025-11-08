@@ -499,6 +499,7 @@ Notable projects using uhubctl
 | [Python Wrapper for uhubctl](https://github.com/nbuchwitz/python3-uhubctl) | Module to use uhubctl with Python     |
 | [labgrid](https://github.com/labgrid-project/labgrid)    | Framework for testing embedded Linux on hardware        |
 | [Thermal Camera](https://tinyurl.com/5asne8hw)           | Turn on/off robot's thermal camera when necessary       |
+| [Usb2_hub](https://github.com/brainsmoke/usb2_hub)       | Hardware with per port power control. KiCad/FE1.1       |
 | [Usbhubctl](https://github.com/octoprobe/usbhubctl)      | Pure python version of uhubctl. Autodetect komplex hubs |
 | [Octoprobe](https://github.com/octoprobe/tentacle)       | Hardware with per port power control. KiCad/USB2514B    |
 
